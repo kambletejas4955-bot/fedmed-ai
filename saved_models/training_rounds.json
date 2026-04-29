@@ -1,0 +1,14 @@
+[
+  {
+    "round": 1,
+    "triggered_by": "bootstrap",
+    "timestamp": "2026-04-12T10:06:25.517024+00:00",
+    "accuracy": 83.0,
+    "f1": 90.69,
+    "pending_before_refresh": [
+      "hospital_1",
+      "hospital_2",
+      "hospital_3"
+    ]
+  }
+]

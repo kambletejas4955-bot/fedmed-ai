@@ -1,0 +1,11 @@
+{
+  "pending_hospitals": [],
+  "submissions_since_refresh": 0,
+  "last_refresh_at": "2026-04-12T06:27:11",
+  "last_refreshed_hospitals": [
+    "hospital_1",
+    "hospital_2",
+    "hospital_3"
+  ],
+  "refresh_count": 1
+}

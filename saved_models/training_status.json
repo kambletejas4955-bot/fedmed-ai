@@ -1,0 +1,40 @@
+{
+  "pending_hospitals": [
+    "hospital_1"
+  ],
+  "submissions_since_refresh": 1,
+  "refresh_count": 1,
+  "last_refresh_at": "2026-04-12T10:06:25.517024+00:00",
+  "last_refresh_triggered_by": "bootstrap",
+  "hospital_metrics": {
+    "hospital_1": {
+      "hospitalName": "Mayo Clinic",
+      "samples": 200,
+      "accuracy": 82.5,
+      "precision": 82.5,
+      "recall": 100.0,
+      "f1": 90.41
+    },
+    "hospital_2": {
+      "hospitalName": "Johns Hopkins",
+      "samples": 200,
+      "accuracy": 86.0,
+      "precision": 86.0,
+      "recall": 100.0,
+      "f1": 92.47
+    },
+    "hospital_3": {
+      "hospitalName": "Cleveland Clinic",
+      "samples": 200,
+      "accuracy": 80.5,
+      "precision": 80.5,
+      "recall": 100.0,
+      "f1": 89.2
+    }
+  },
+  "global_metrics": {
+    "accuracy": 83.0,
+    "f1": 90.69,
+    "model_version": "v1"
+  }
+}

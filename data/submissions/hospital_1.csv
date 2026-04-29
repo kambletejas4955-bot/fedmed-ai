@@ -1,0 +1,3 @@
+submitted_at,hospital_id,hospital_name,age,sex,symptoms,medical_history,lab_results,genetic_markers,predicted_label
+2026-04-12T06:27:10,hospital_1,Mayo Clinic,25,female,Bone pain,family history,,,0
+"24/04/2026, 10:47:47",hospital_1,Mayo Clinic,PT-729665,47,male,Fever | Difficulty walking | Joint pain,1 week,False,False,,,bilirubin: 1.0 | ALT: 40.0 | AST: 9.0 | ferritin: 3.0,,,Gaucher Disease Type 3,91,ultra-rare,3
